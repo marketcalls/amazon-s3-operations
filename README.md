@@ -25,8 +25,8 @@ A modern Flask-based web application for secure file uploads to AWS S3 with CSRF
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/marketcalls/amazon-s3-operations.git
+cd amazon-s3-operations
 ```
 
 2. Create and activate a virtual environment:
@@ -118,7 +118,7 @@ This project uses Tailwind CSS for styling, providing:
 
 ## Contributing
 
-1. Fork the repository
+1. Fork the repository from [amazon-s3-operations](https://github.com/marketcalls/amazon-s3-operations)
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
@@ -134,3 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - AWS S3 service
 - Tailwind CSS
 - Flask-WTF for CSRF protection
+
+## Support
+
+If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/marketcalls/amazon-s3-operations/issues).
